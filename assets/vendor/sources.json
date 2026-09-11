@@ -1,0 +1,6 @@
+{
+  "swiper-bundle.min.js": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js",
+  "swiper-bundle.min.css": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+  "aos.js": "https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js",
+  "aos.css": "https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css"
+}
